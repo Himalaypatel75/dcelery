@@ -7,6 +7,7 @@ Steps :-
 This project have docker image you can deploy on docker.
 clone repo.
 docker-compose up -d --build
+docker exec -it django /bin/sh
 
 <-- SOME INFORMATION -->
 
