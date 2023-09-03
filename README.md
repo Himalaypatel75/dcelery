@@ -1,5 +1,7 @@
 # DjangoContainer
 
+**this is containes two branch one with celery intigration with django itself and other is creating stand alone celery instance.**
+
 Django deployment with container
 
 Steps :-
