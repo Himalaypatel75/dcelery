@@ -2,6 +2,8 @@
 
 **this is containes two branch one with celery intigration with django itself and other is creating stand alone celery instance.**
 
+Reference :- **https://www.udemy.com/course/django-celery-mastery/**
+
 Django deployment with container
 
 Steps :-
