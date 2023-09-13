@@ -33,4 +33,6 @@ Topic :-
 8. https://docs.celeryq.dev/en/stable/userguide/calling.html (async vs delay)
 9. monitoring celery workers and tasks with **flower** (monitoring, management, visualization) - https://pypi.org/project/django-flower/, https://flower.readthedocs.io/en/latest/
 10. exception in celery
-11. 
+11. autodiscovery_task (dynamic task discovery)
+12. celery error handling
+13. celery scheduling task
